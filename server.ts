@@ -240,7 +240,7 @@ app.post("/api/generate-palette", async (req, res) => {
     `;
 
         const response = await ai.models.generateContent({
-            model: "gemini-3.5-flash",
+            model: "gemini-1.5-flash",
             contents: promptInstructions,
             config: {
                 responseMimeType: "application/json",
