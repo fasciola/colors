@@ -1,0 +1,6 @@
+{
+  "name": "Color Palette Generator & Web Previewer",
+  "description": "A mobile app interface that generates optimized color palettes from a primary color and previews their usage on beautifully designed components and layout landing pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
